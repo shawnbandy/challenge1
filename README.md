@@ -10,7 +10,7 @@ Objective of the assignment was to:
 5. Update title 
 
 Assignment was accomplished by: 
-1. Updated some <div>s where needed to better sematic usage, like <header> for example 
+1. Updated some divs where needed to better sematic usage, like <header> for example 
 2. Rearranged and spaced out sections of code to make each part easier to read and understand
 3. Concise and descriptive alt text was added to each image given 
 4. Rearranged header elements to correspond with the rest of the sections
